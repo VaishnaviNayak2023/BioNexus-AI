@@ -9,7 +9,9 @@ The eDNA Taxonomy Workbench enables researchers and ecologists to analyze enviro
 ## Current Status
 
 **Frontend: ✅ Running on http://localhost:5176**
+
 **Backend: ⚠️ Requires Python 3.11/3.12 (code complete, dependency installation needs compatible Python)**
+
 **Conformal Prediction: ✅ Fully Implemented**
 
 See [RUNNING.md](RUNNING.md) for detailed setup instructions.
